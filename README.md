@@ -1,0 +1,1 @@
+## The "master" branch represents the stable version of the project.
